@@ -1,20 +1,23 @@
-# 🐍 Data Structures & Algorithms in Python
+# 🐍 Python Data Structures & Algorithms (DSA)
 
-Welcome to my repository for **Data Structures and Algorithms (DSA)** using **Python**! This repository tracks my learning progress, problem-solving journey, and clean implementations of core computer science concepts.
+Welcome to my repository for **Data Structures and Algorithms in Python**! This collection focuses on mastering the core DSA concepts required for efficient data processing, logic building, and optimizing performance in **Data Engineering & Analytics** workflows.
 
 ---
 
 ## 📌 Topics Covered
 
-* **Data Structures:** Arrays, Linked Lists, Stacks, Queues, Hash Tables, Trees, Graphs, Heaps.
-* **Algorithms:** Sorting, Searching, Recursion, Dynamic Programming, Greedy Algorithms, Two Pointers, Sliding Window.
+* **Core Data Structures:** Arrays/Lists, Dictionaries (Hash Maps), Sets, Tuples, and Strings.
+* **Essential Algorithms:** Binary Search, Two Pointers, Sliding Window, and Sorting.
+* **Algorithmic Efficiency:** Time & Space Complexity Analysis using **Big-O Notation**.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🎯 Focus & Goal
 
-* **Language:** Python 3.x
-* **Platforms:** LeetCode / HackerRank 
+Rather than competitive programming, this repository emphasizes practical problem-solving:
+* Writing clean, Pythonic, and readable code.
+* Optimizing data lookup and filtering logic ($O(1)$ & $O(n)$ time complexities).
+* Solving Easy to Medium level problems from **LeetCode** and **HackerRank**.
 
 ---
 
@@ -22,3 +25,6 @@ Welcome to my repository for **Data Structures and Algorithms (DSA)** using **Py
 
 * **MD Nasim Ahmmed**
 * GitHub: [@nasim-ahmmed19](https://github.com/nasim-ahmmed19)
+
+---
+*Keep Coding & Optimizing! 🚀*
