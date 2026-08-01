@@ -14,5 +14,5 @@ class character_hash:
         for j in self.m:
             print(f'{j} occurs in string :{self.hash_list[ord(j)]} times')
 
-obj=character_hash(s,m) #TC=O(N+M)   SC=O(256)
+obj=character_hash(s,m) #TC=O(N+M)   SC=O(256)--sc O(1)
 obj.counter()
