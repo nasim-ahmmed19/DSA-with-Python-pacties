@@ -25,7 +25,7 @@ bubble_sort_descending(num)
 print("Sorted array in descending order is:", num) 
 
 # Best case time complexity: O(n)
-def bubble_sort_best_case(num): # TC: O(n^2) SC: O(1)
+def bubble_sort_best_case(num): # TC: O(n) SC: O(1)
     n=len(num)
     for i in range(n-2,-1,-1):
         swapped=False
