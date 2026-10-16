@@ -22,7 +22,7 @@ class Solution:
                 if not arr or arr[-1]!=b[j]:
                     arr.append(b[j])
                 j+=1
-        return arr
+        return arr # TC: O(n+m) SC: O(n+m)
 
 a=[1, 2, 3, 4, 5]
 b=[1, 2, 3, 6, 7]
